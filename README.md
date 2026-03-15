@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-I put this list together while preparing my webinar on **UX fundamentals**. These are the books, articles, tools, and references that shaped how I think about design, and I figured they might be useful for you too. Feel free to bookmark, fork, or share.
+I put this list together while preparing my **UX: What Is It? Why Does It Matter? Core Principles** webinar. These are the books, articles, tools, and references that shaped how I think about design, and I figured they might be useful for you too. Feel free to bookmark, fork, or share.
 
 ## 📚 Books
 
