@@ -16,6 +16,7 @@ These are the books I keep coming back to. Some I've read cover to cover, some I
 - [Influence: The Psychology of Persuasion](https://amzn.eu/d/036FGHbV): Understanding and applying the six principles ethically is cost-free and deceptively easy.
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555): Nobel laureate's work on how humans think and decide. Heavy but worth it.
 - [How to Get People to Do Stuff](https://www.amazon.com/People-Stuff-Master-Persuasion-Psychology/dp/0321884507): Motivation and behavioral triggers in design.
+- [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://a.co/d/0cCP1Fyy): A visual catalog of common mobile UI patterns. Navigation, forms, tables, search, onboarding, etc.
 
 ## 🌐 Websites & References
 
@@ -70,6 +71,7 @@ These are the specific articles I referenced or drew from while preparing the we
 - [UI vs UX: What's the Difference?](https://www.figma.com/resource-library/difference-between-ui-and-ux/) — Figma's guide to the distinction.
 - [Stanford Web Credibility Research](https://credibility.stanford.edu/) — How visual design affects trust.
 - [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) — Jakob Nielsen's classic on usability testing sample sizes.
+- [Design-Pattern Guidelines: Study Guide](https://www.nngroup.com/articles/design-pattern-guidelines/): Unsure how to design and implement user-interface patterns? Use this collection of links to our content about specific patterns.
 
 ---
 
