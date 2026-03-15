@@ -59,7 +59,6 @@ Handy tools I use or recommend. Most of them are free, all of them are useful.
 - [A11y Project](https://www.a11yproject.com/) — Community-driven accessibility checklist and resources.
 - [Who Can Use](https://www.whocanuse.com/) — See how color contrast affects different types of vision.
 - [Butterick's Practical Typography](https://practicaltypography.com/) — A comprehensive, opinionated guide to typography on the web.
-- [Google Fonts](https://fonts.google.com/) — Free, open-source typefaces.
 - [Font Pair](https://www.fontpair.co/) — Curated typeface pairing suggestions.
 
 ## 📝 Articles Referenced
