@@ -75,11 +75,12 @@ These are the specific articles I referenced or drew from while preparing the we
 
 ## About
 
-This resource list was compiled by Halil İbrahim Çakıroğlu ([@selfishprimate](https://github.com/selfishprimate)) as a companion to the webinar "UX: What Is It? Why Does It Matter? Core Principles".
+I'm Halil İbrahim Çakıroğlu, a product designer with 20 years of experience. I put this list together as a companion to my webinar **UX: What Is It? Why Does It Matter? Core Principles**, hopefully it saves you some time and rabbit holes. If you have suggestions, feel free to open a PR or reach out.
 
 - [LinkedIn](https://www.linkedin.com/in/selfishprimate/)
 - [Medium](https://medium.com/@selfishprimate)
 - [GitHub](https://github.com/selfishprimate)
+- [Portfolio](https://selfishprimate.com)
 
 ### Open Source Projects
 
