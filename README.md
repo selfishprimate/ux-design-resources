@@ -4,6 +4,8 @@ Hey there! 👋
 
 I put this list together while preparing my **UX: What Is It? Why Does It Matter? Core Principles** webinar. These are the books, articles, tools, and references that shaped how I think about design, and I figured they might be useful for you too. Feel free to bookmark, fork, or share.
 
+🔗 [Go to the Presentation](https://www.figma.com/deck/HVFtoWUUqpDCFyLrU6wDZb)
+
 ## 📚 Books
 
 These are the books I keep coming back to. Some I've read cover to cover, some I skim when I need a quick reminder. All of them shaped how I think about design.
